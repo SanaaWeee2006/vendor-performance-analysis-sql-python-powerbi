@@ -111,6 +111,12 @@ vendor-performance-analysis/
 6. **Hypotheseis Testing:** Statistically significant difference in profit margins. **This highlights the need to diversify vendor strategies.**
 
 ---
+<h2><a class="anchor" id="Power BI dashboard"></a>Dashboard</h2>
+
+1. **Brands for Promotions:** 198 brands with low sales but high profit margins
+2. **Top Vendors:** Top 10 Vendors contribute approximately 65% of purchases. **This possess risk of over-reliance**
+
+---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:

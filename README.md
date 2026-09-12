@@ -113,7 +113,7 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="Power BI dashboard"></a>Dashboard</h2>
 
-dashboard link: https://github.com/SanaaWeee2006/vendor-performance-analysis-sql-python/blob/main/vendor_performance_analysis_dashboard.pbix
+dashboard link: https://github.com/SanaaWeee2006/vendor-performance-analysis-sql-python/blob/main/vendor_performance_analysis_dashboard.pbix <br>
 image - https://github.com/SanaaWeee2006/vendor-performance-analysis-sql-python/blob/main/dashboard.png
 
 ---
